@@ -1,2 +1,2 @@
 # RapidJavaProject
-the two files that i used are in src/java/rapid/Rapid.java AND web/Rapid2.jsp
+the two files that i used are in src/Rapid.java AND web/Rapid2.jsp
